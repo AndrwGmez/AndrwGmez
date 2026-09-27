@@ -73,18 +73,8 @@ Construyo plataformas web completas: desde la base de datos hasta la interfaz, c
 
 ---
 
-### Open source
-
-<!-- Reemplaza por tus repos open source reales -->
-- **[nombre-del-repo](https://github.com/AndrwGmez/nombre-del-repo)** — qué hace en una línea.
-- **[nombre-del-repo](https://github.com/AndrwGmez/nombre-del-repo)** — qué hace en una línea.
-
----
-
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=AndrwGmez&show_icons=true&count_private=true&hide_border=true&title_color=0E69FD&icon_color=0E69FD&text_color=1A1A2E&bg_color=ffffff)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrwGmez&layout=compact&hide_border=true&title_color=0E69FD&text_color=1A1A2E&bg_color=ffffff)
 
 [![Racha](https://streak-stats.demolab.com/?user=AndrwGmez&hide_border=true&ring=0E69FD&fire=0E69FD&currStreakLabel=0E69FD)](https://git.io/streak-stats)
 
